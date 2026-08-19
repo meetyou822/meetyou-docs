@@ -20,8 +20,9 @@ title: Privacy Policy
 
 ## 1. Who is responsible for your data
 
-MeetYou ("the app") is operated by **MeetYou** ("we", "us"), who is the
-data controller for the purposes of the General Data Protection Regulation.
+MeetYou ("the app") is operated by **Ádám Komzsík and Daniel Kolař** ("we",
+"us"), who are the joint data controllers for the purposes of the General
+Data Protection Regulation.
 
 - **Email:** meetyou.acc1@gmail.com
 
@@ -205,5 +206,5 @@ significant, we will say so in the app.
 
 ## 13. Contact
 
-MeetYou
+Ádám Komzsík and Daniel Kolař
 meetyou.acc1@gmail.com

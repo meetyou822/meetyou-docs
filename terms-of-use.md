@@ -16,7 +16,7 @@ title: Terms of Use
 ## 1. What these terms cover
 
 MeetYou is a free app for finding and organizing small social events. It is
-operated by **MeetYou** ("we", "us").
+operated by **Ádám Komzsík and Daniel Kolař** ("we", "us").
 
 By creating an account you agree to these terms. If you do not agree to them,
 please do not use the app.
