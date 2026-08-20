@@ -65,7 +65,10 @@ If you organize an event:
   photos and the ratings people left on them. Everyone who had signed up is
   notified that the event is cancelled.
 
-## 5. What you must not do
+## 5. What you must not do — our community standards
+
+This is the standard we use to decide what gets removed and whose account
+gets disabled or blocked. Don't:
 
 - Post anything unlawful, hateful, harassing, or sexual.
 - Upload photographs of people who have told you they do not want to appear.
