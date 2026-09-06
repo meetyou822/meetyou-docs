@@ -11,7 +11,7 @@ title: Terms of Use
 > tracked gap (see `TODO.md` items 5 and 10F), not something this revision
 > changes.
 
-**Last updated:** 19 August 2026
+**Last updated:** 6 September 2026
 
 ## 1. What these terms cover
 
@@ -44,6 +44,10 @@ of the app.
 We may disable an account that breaks these terms. A disabled account can still
 sign in and see that it has been disabled, but cannot join or organize events.
 
+If you believe your account was disabled by mistake, contact us at
+meetyou.acc1@gmail.com — the app's disabled-account screen links directly to
+this. We will review the disabling and let you know the outcome.
+
 ## 4. Organizing events
 
 Ordinary members can join events. Organizing them requires being made an
@@ -56,9 +60,13 @@ If you organize an event:
   can see who has joined, and you can remove someone from it.
 - **The people who joined are relying on you.** If you cancel, they are notified
   automatically, but it is still on you to be straight with them.
-- **You are responsible for what happens at your event**, not us. We provide a
-  listing; we do not run, supervise, insure or vet anything that happens in
-  person.
+- **You are responsible for organizing and running your event responsibly** —
+  setting accurate details, communicating clearly with attendees, and using
+  reasonable judgment about who and what you invite people to. You are not
+  responsible for another attendee's independent actions that are outside your
+  control, unless your own conduct as organizer caused or contributed to what
+  happened. We provide a listing; we do not run, supervise, insure or vet
+  anything that happens in person.
 - **Your name and profile photo are shown publicly** to every signed-in member
   on the events you organize.
 - **If you delete your account, your events are deleted too**, along with their
@@ -80,9 +88,19 @@ gets disabled or blocked. Don't:
 
 ## 6. Photographs, ratings and comments
 
-**What you upload stays yours.** By adding a photograph, rating or comment you
-give us permission to store and display it inside the app for as long as you
-leave it there. We do not use it for anything else and we do not sell it.
+**What you upload stays yours.** By adding a photograph, rating or comment,
+you grant us permission to store, copy, and display it inside the app for as
+long as it remains published. After you delete a photograph, rating, or
+comment (or delete your account), we stop displaying it and remove it from
+our active database; a copy may briefly persist in routine backups until
+those are cycled out, but is not otherwise used. We do not use your content
+for anything else, we do not sell it, and we do not license it to third
+parties.
+
+**We are not responsible for content you or other members upload.** We do
+not review photographs, ratings, or comments before they're shown to other
+members. If content is reported to us as breaking these terms, we will
+review it and act — including removing it — as described in section 7.
 
 **Only upload photographs you have the right to upload.** A photograph of a
 group of people is about all of them, not only about whoever took it. If someone
@@ -100,12 +118,18 @@ Write them accordingly.
 
 You can report an event, a person or a photo from inside the app.
 
-Reports go to us and to nobody else. We will not tell you what we decided, and
-you cannot read your own report back — this stops reports being used to work out
-who has been reported. We keep reports on file.
+Reports go to us and to nobody else. If you file a report, we will not tell
+you what we decided or let you read it back — this stops reports being used
+to work out who has been reported. We keep a report on file for as long as
+your account exists; if you delete your account, the reports you filed are
+deleted with it (see section 9).
 
-We may remove content, cancel an event, or disable an account in response to a
-report, or on our own initiative.
+We may remove content, cancel an event, or disable an account in response to
+a report, or on our own initiative. If we do, we will tell the affected
+person the general reason — for example, that a photo was removed for
+breaking section 5, or that their account was disabled for the same reason —
+and they can contact us at meetyou.acc1@gmail.com about it, including to ask
+us to reconsider.
 
 ## 8. The service itself
 
@@ -115,7 +139,8 @@ unchanged. We may add features, remove them, or stop running the service
 altogether.
 
 If we were to shut the service down, we would give notice in the app where we
-reasonably can.
+reasonably can. Shutting down the service does not affect any right or claim
+either of us already had before that point.
 
 ## 9. Ending your use
 
@@ -127,6 +152,11 @@ uploaded — and, if you were an organizer, the events you ran. **This cannot be
 undone, and it destroys content other members contributed to your events.**
 
 We may end your access if you break these terms.
+
+Some information may continue to exist after your account is deleted where
+the law requires us to keep it, where it is needed to resolve an ongoing
+dispute or report, or where it is needed to protect our or someone else's
+legal rights. This is described in the Privacy Policy.
 
 ## 10. Our responsibility
 
@@ -140,9 +170,12 @@ of MeetYou. Nothing here limits liability that cannot be limited by law.
 
 ## 11. Changes
 
-If these terms change, the date at the top changes with them, and we will say so
-in the app if the change is significant. Continuing to use MeetYou after that
-means you accept the new version.
+If we change these terms, we will update the date at the top and, for a
+significant change, notify you inside the app at least **7 days** before it
+takes effect. The notice will say when the new terms become effective. If
+you do not agree to a change, you can reject it by deleting your account
+before the change takes effect; continuing to use MeetYou after the
+effective date means you accept the new terms.
 
 ## 12. Law and contact
 
