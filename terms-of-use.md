@@ -162,11 +162,16 @@ legal rights. This is described in the Privacy Policy.
 
 MeetYou lists events; it does not run them. Meeting people you do not know
 carries ordinary real-world risk, and that risk is yours to judge. We are not
-responsible for what happens at an event, for anything a member says or does, or
-for anything you arrange through the app.
+responsible for what other members say or do, or for anything that happens at
+an event or that you arrange through the app — that risk is between you and
+the other members involved, not us.
 
-To the extent the law allows, we are not liable for loss arising from your use
-of MeetYou. Nothing here limits liability that cannot be limited by law.
+This limitation is about the conduct of members, not about us. It does not
+limit our own liability where we are at fault — for example, a data breach
+caused by our own negligence, or removing your content or disabling your
+account without a proper basis under these terms. Nothing here limits any
+liability that cannot be limited by law, including liability for intentional
+misconduct, gross negligence, or harm to health or life.
 
 ## 11. Changes
 
@@ -179,6 +184,12 @@ effective date means you accept the new terms.
 
 ## 12. Law and contact
 
-These terms are governed by the law of **Czechia**.
+These terms are a contract between you and **Ádám Komzsík and Daniel Kovář**,
+who together operate MeetYou (see section 1).
+
+These terms are governed by the law of **Czechia**. If you are a consumer
+habitually resident in another European Union member state, this does not
+deprive you of the protection given to you by the mandatory consumer-protection
+laws of that state.
 
 Questions, complaints, and takedown requests: meetyou.acc1@gmail.com
