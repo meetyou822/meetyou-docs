@@ -13,7 +13,7 @@ title: Privacy Policy
 > separately-tracked gap (see `TODO.md` items 5 and 10F), not something this
 > revision changes.
 
-**Last updated:** 24 August 2026
+**Last updated:** 6 September 2026
 
 ## 1. Who is responsible for your data
 
@@ -40,18 +40,18 @@ never your email address. You can change both at any time in the app.
 - Ratings and written feedback you leave after an event.
 - Photographs you upload to an event you organize.
 - Reports you file about an event, a person or a photo, including anything you
-  write in them.
+write in them.
 - A request to become an organizer, if you make one, including the optional
-  message you write.
+message you write.
 - Your notification preferences.
 
 **What we do not collect.** We want to be specific about this, because the
 absence is deliberate:
 
 - **No location data.** An event's location is text typed by its organizer. The
-  app never asks for or records your device's location.
+app never asks for or records your device's location.
 - **No analytics, no tracking, no advertising identifiers.** There is no
-  analytics SDK in the app of any kind.
+analytics SDK in the app of any kind.
 - **No payment details, no contacts, no calendar, no address book.**
 
 ## 3. Why we use it, and on what legal basis
@@ -85,10 +85,10 @@ show you.
 Two things worth stating plainly:
 
 - **The operator can see everything.** That includes your profile, your email
-  address, every rating and comment you write, and every report. This is
-  necessary to run and moderate the service.
+address, every rating and comment you write, and every report. This is
+necessary to run and moderate the service.
 - **Becoming an organizer is public.** If you run events, your display name and
-  profile photo are shown to every signed-in member on each event you organize.
+profile photo are shown to every signed-in member on each event you organize.
 
 **Profile photos you upload require sign-in to view.** They are served through
 short-lived, signed web addresses that only work for a signed-in member and
@@ -134,7 +134,7 @@ visible to every signed-in member — not only to the people who attended.
 it.** If you appear in a photograph on MeetYou:
 
 - You can report it from inside the app. Every photo has a flag icon; choose
-  "I appear in this photo" and it goes straight to the operator.
+"I appear in this photo" and it goes straight to the operator.
 - Or write to meetyou.acc1@gmail.com.
 
 We will review it and remove the photograph if you ask us to. A reported photo
@@ -157,6 +157,10 @@ people left on them; anyone who had signed up is notified that the event is
 cancelled.
 
 Account deletion is immediate and cannot be undone.
+
+**Exception:** we may keep specific information for longer where the law
+requires it, where it is needed to resolve an open dispute or report, or to
+protect our or someone else's legal rights.
 
 ## 8. Your rights
 
