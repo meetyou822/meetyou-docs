@@ -2,13 +2,6 @@
 title: Child Safety Standards
 ---
 
-> **⚠️ One thing before this can be treated as final.**
->
-> **Have a lawyer read it.** This was drafted from the same engineering record
-> as the [Privacy Policy](privacy-policy.md) and [Terms of Use](terms-of-use.md) —
-> it is accurate about what the software does, which is the hard part, but
-> that is not the same as being legally sound.
-
 **Last updated:** 15 September 2026
 
 ## 1. Our standard
