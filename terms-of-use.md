@@ -2,15 +2,6 @@
 title: Terms of Use
 ---
 
-> **⚠️ Have a lawyer read this**, particularly sections 10 and 11, before
-> treating it as final. This was drafted to describe what the software
-> actually does; the liability language is ordinary but is not legal advice.
->
-> Nothing here checks a user's age — section 2 still says you must be 16 to
-> use MeetYou, which the app does not enforce. That's a known, separately
-> tracked gap (see `TODO.md` items 5 and 10F), not something this revision
-> changes.
-
 **Last updated:** 6 September 2026
 
 ## 1. What these terms cover

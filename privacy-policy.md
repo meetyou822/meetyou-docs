@@ -2,17 +2,6 @@
 title: Privacy Policy
 ---
 
-> **⚠️ One thing before this can be treated as final.**
->
-> **Have a lawyer read it.** This was drafted from the engineering record in
-> `PRIVACY_NOTES.md` — it is accurate about what the software does, which is
-> the hard part, but that is not the same as being legally sound.
->
-> Nothing here checks a user's age — this document still promises the service
-> is for people 16 and over, which the app does not enforce. That's a known,
-> separately-tracked gap (see `TODO.md` items 5 and 10F), not something this
-> revision changes.
-
 **Last updated:** 6 September 2026
 
 ## 1. Who is responsible for your data
